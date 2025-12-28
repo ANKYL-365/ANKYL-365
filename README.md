@@ -1,94 +1,123 @@
-# 👋 Hi, I'm Chirayu Jain
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">🛡️ Hi, I'm Chirayu Jain</h1>
+<h3 align="center">Cybersecurity Student | Ethical Hacker | Digital Defender</h3>
 
-🎓 **Cybersecurity Student | Ethical Hacking Enthusiast | Python Developer**  
-🔐 Passionate about securing systems, analyzing threats, and building secure applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=520&lines=Securing+the+Digital+World;Ethical+Hacking+Enthusiast;Cyber+Defense+Learner;Future+Cyber+Security+Expert" />
+</p>
 
----
-
-## 🛡️ About Me
-
-- 🎓 B.Tech Student with a focus on **Cybersecurity & Computer Science**
-- 🔍 Interested in **Ethical Hacking, Network Security, Web Security & Digital Forensics**
-- 💻 Strong foundation in **Python, Linux, SQL, and Web Technologies**
-- 🚀 Currently learning **Advanced Cybersecurity Tools & Cloud Security**
-- 🧠 Believe in *"Security is not a product, but a process."*
-
----
-
-## 🔧 Skills & Technologies
-
-### 💻 Programming & Scripting
-- Python
-- Bash
-- SQL
-- HTML, CSS
-
-### 🛡️ Cybersecurity
-- Ethical Hacking
-- Vulnerability Assessment
-- Network Security
-- Web Application Security
-- Cyber Laws & Compliance
-
-### ⚙️ Tools & Platforms
-- Kali Linux
-- Metasploit
-- Wireshark
-- Burp Suite
-- Nmap
-- Git & GitHub
-- AWS (Basics)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square"/>
+</p>
 
 ---
 
-## 📂 Projects
+## 👾 About Me
 
-🔹 **Web Traffic Anomaly Detection**  
-*Machine Learning–based system to detect suspicious activities using AWS CloudWatch data*
-
-🔹 **Cybersecurity Dashboard**  
-*Python-based dashboard with security tools categorized into foundational, intermediate & advanced levels*
-
-🔹 **Web Scraping for Security Intelligence**  
-*Automated data extraction using Selenium, BeautifulSoup & Scrapy*
-
-🔹 **Secure Web Application**  
-*Flask + MySQL application with authentication and role-based access*
-
-👉 *More projects available in my repositories!*
+- 🎓 **Cybersecurity Student**
+- 🔐 **Passionate about Ethical Hacking & Digital Forensics**
+- 🧪 **Interested in Malware Analysis & Network Security**
+- 🧩 **Problem Solver | Lifelong Learner**
 
 ---
 
-## 📚 Currently Learning
+## ⚙️ Cybersecurity Skill Set
 
-- 🔐 Advanced Ethical Hacking
-- ☁️ Cloud Security (AWS)
-- 🤖 Machine Learning for Cybersecurity
-- 🕵️ Threat Intelligence & SOC Operations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,html,css,js" />
+</p>
+
+---
+
+## 🔒 Security Domains
+
+- 🛡️ Network Security  
+- 🕵️ Penetration Testing  
+- 🔑 Cryptography  
+- 🐞 Vulnerability Assessment  
+- 📊 Security Analytics  
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nmap-4CAF50?style=flat-square"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔍 Advanced Penetration Testing  
+- 📜 Cyber Law & Digital Ethics  
+- 🧠 CTFs & Security Labs  
+- 🛠️ Security Automation with Python  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: *Add your LinkedIn link*
-- 📧 Email: *Add your professional email*
-- 🌐 Portfolio: *Coming Soon*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## ⚠️ Disclaimer
+## 🧪 Featured Projects
 
-> All projects are for **educational purposes only**.  
-> I do **not** support or promote illegal hacking activities.
+🚧 *Coming Soon*
+- 🔐 Password Cracking Toolkit  
+- 🛡️ Network Intrusion Detection System  
+- 🧬 Malware Behavior Analyzer  
 
 ---
 
-⭐ **Feel free to explore my repositories and star the ones you like!**
+## 🏆 Achievements & Learning
+
+- 🥇 Cybersecurity Training (Ongoing)
+- 🎯 Active CTF Participant
+- 🐧 Linux & Networking Practice
+- 📘 Security Research & Labs
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Quote I Live By
+
+> **“Security is not a product, but a process.” — Bruce Schneier**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=brightgreen"/>
+</p>
+
+<p align="center">
+  🔐 <strong>Secure • Analyze • Defend</strong> 🔐
+</p>
